@@ -1,0 +1,60 @@
+body{
+     text-align:center ;
+     background-image: url(https://i.kinja-img.com/gawker-media/image/upload/s--AZ--0t7P--/c_scale,fl_progressive,q_80,w_800/1482881786869461573.jpg;)
+}
+#titulo{
+          font-size: 75px;
+          color: goldenrod;
+}
+h1{
+     color: goldenrod;
+}
+.los-malos{
+           background-color: red;
+           color: goldenrod;
+}
+.los-buenos{
+           background-color:blue;
+           color: goldenrod;
+}
+li{
+     font-size: 25px;
+}
+#darth_vader{
+           
+           background-color: red;
+          
+}
+#luke{
+            font-style: italic;
+            color: goldenrod;
+}
+.soldados{
+           border: 2px solid goldenrod;
+           color: goldenrod;
+}
+.texto1{
+          color: goldenrod;
+}
+.apoyo{
+         color: goldenrod;
+}
+.subtitulos_imperio{
+      
+         color: goldenrod;
+}
+.texot2{
+         color: goldenrod;
+}
+.texto3{
+        color: goldenrod;
+}
+.texto4{
+        color: goldenrod
+}
+.texto5{
+        color: goldenrod;
+}
+.texto6{
+        color: goldenrod;
+}
